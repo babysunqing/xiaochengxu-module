@@ -19,5 +19,4 @@ Page({
     console.log(md);  //802909e380455122f72d652ffaa1a4dc
     
   }
-  
 })
